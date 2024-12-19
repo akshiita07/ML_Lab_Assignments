@@ -1,0 +1,14 @@
+{
+    "Linear Regression": {
+        "Mean Squared Error": 0.10616295970431906,
+        "R-squared": 0.6355998085472896
+    },
+    "Random Forest": {
+        "Mean Squared Error": 0.1116089254373333,
+        "R-squared": 0.6169067449657686
+    },
+    "Support Vector Regressor": {
+        "Mean Squared Error": 0.29557143484476767,
+        "R-squared": -0.014537346597768508
+    }
+}
